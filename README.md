@@ -84,7 +84,7 @@ This playbook is designed to be extended. You can easily:
 ## 🧑‍💼 Author
 
 **Rahul Joshi**  
-Senior DevOps Consultant  
+DevOps Enthusiastic 
 📧 rj1342627@gmail.com  
 🔗 [github.com/Rahuljoshi07](https://github.com/Rahuljoshi07)
 

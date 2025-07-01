@@ -85,7 +85,7 @@ Senior DevOps Consultant
 
 ## 📜 License
 
-This project is licensed under the MIT License — feel free to use it and build on top of it.
+Feel free to use it and build on top of it.
 
 ---
 

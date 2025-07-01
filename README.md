@@ -27,9 +27,7 @@ This repository contains an Ansible playbook to automate the installation of **N
 ## 🖼️ Live Page Preview
 
 Below is a screenshot of the static site deployed using this Ansible playbook:
-
-![![Screenshot_1-7-2025_132414_192 168 56 102](https://github.com/user-attachments/assets/bb8457e3-fd70-41ea-80ab-ed81705bcb9e)
-](screenshot.png)
+![Screenshot_1-7-2025_132414_192 168 56 102](https://github.com/user-attachments/assets/6b0c440a-d6ed-4ae1-b100-6ce0703f4f9d)
 
 ## 📁 Files Included
 

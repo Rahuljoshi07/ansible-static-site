@@ -2,7 +2,6 @@
 
 This repository contains an Ansible playbook to automate the installation of **NGINX** and the deployment of a simple static HTML page on a remote Linux server.
 
-> 🧠 Built with 20+ years of industry experience in DevOps, automation, and infrastructure design.
 
 ---
 
